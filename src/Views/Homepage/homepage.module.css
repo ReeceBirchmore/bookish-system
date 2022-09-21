@@ -1,0 +1,12 @@
+.container {
+  display: flex;
+  height: 100%;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.driverList {
+  display: flex;
+  flex-direction: column;
+}
